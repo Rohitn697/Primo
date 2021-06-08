@@ -4,7 +4,7 @@ Download the app from https://drive.google.com/file/d/1nHlxkTg6fM_4kWSVsHJzSiaiy
 
 ## About
 
-An Android app to in which users can watch the trailer of movies and tv shows currently trending.
+An Android app in which users can watch the trailer of movies and tv shows currently trending.
 
 
 ## Permission
